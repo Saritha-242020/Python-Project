@@ -18,6 +18,6 @@ This project analyses employee data to understand team structures, salary distri
 
 ### Instructions
 1. Clone the repo.
-2. Run `ABC Company Report.ipynb`.
+2. Run `ABC_Company_Report.ipynb`.
 3. View insights and charts in notebook output.
 
